@@ -1,3 +1,7 @@
+---
+name: agent-doctor
+description: "Самодиагностика и автолечение OpenClaw. Проверка gateway, WAL, памяти, кронов, токенов. Автоматическое исправление типичных проблем."
+---
 # 🏥 Agent Doctor - Самодиагностика OpenClaw
 
 **Версия:** 1.0.0 (Public Release)
