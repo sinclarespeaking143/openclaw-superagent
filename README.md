@@ -24,7 +24,7 @@ Turn a blank OpenClaw into a fully-featured AI agent with memory, self-diagnosti
 ## Installation (2 minutes)
 
 ```bash
-git clone https://github.com/AlekseiUL/thoth-system.git
+git clone https://github.com/AlekseiUL/openclaw-superagent.git
 cd thoth-system
 bash install.sh
 ```
@@ -121,7 +121,7 @@ The agent will:
 ## Установка (2 минуты)
 
 ```bash
-git clone https://github.com/AlekseiUL/thoth-system.git
+git clone https://github.com/AlekseiUL/openclaw-superagent.git
 cd thoth-system
 bash install.sh
 ```
